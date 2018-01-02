@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "themegaowchiesmobileapp.superswagguy.edu.mit.scratch"
+        id          = "scratchdrawingapp.ckfablab.edu.mit.scratch"
         versionCode = "10" 
         version     = "1.0.0" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>[The Mega Owchies Video Game]</name>
+    <name>[The Scratch Drawing APP]</name>
 
     <description>
    You've watched the movie. Now, you can play the game! From the creators of everything you like comes a very emotional (and funny) video game about a boy and his dog. Based on Mega Owchies The Movie on YouTube, Justin (not his real name) adopts a dog only to have him taken by Dr. Dance Party (that was my character in the movie). Justin must travel through 5 worlds, each with its own lit soundtrack, to find man's best friend:
@@ -32,8 +32,8 @@ Features:
         Note: This game is BETA and may not work on some computers. Please tell me if it works on yours.
     </description>
 
-    <author href="http://scratch.mit.edu/users/SuperSwagGuy" email="SuperSwagGuy@gmail.com">
-        SuperSwagGuy
+    <author href="http://scratch.mit.edu/users/ckfablab" email="ckfablab@gmail.com">
+        ckfablab
     </author>
 
         
